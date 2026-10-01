@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Fahri Febrian and Information Technology Enthusiast.</p>
+<p align="center">My name is Fahri Febrian, and I am an Information Technology Enthusiast.</p>
 
 ###
 <div align="left">
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🎯 Goal : I am currently studying networking and system operations. <br>📚 transitioning from software engineering to IT infrastructure.</p>
+<p align="left">🎯 Goal : I am currently studying Networking and System Operations. <br>📚 transitioning from Software Engineering to IT infrastructure.</p>
 
 ###
 
