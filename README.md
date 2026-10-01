@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🎯 Goal : Be the IT Infrastructure <br>📚 I am currently studying Networking and Operating Systems.</p>
+<p align="left">🎯 Goal : I am currently studying networking and system operations. <br>📚 transitioning from software engineering to IT infrastructure.</p>
 
 ###
 
