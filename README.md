@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Fahri Febrian and I'm a Junior Software Engineer.</p>
+<p align="center">My name is Fahri Febrian and Information Technology Enthusiast.</p>
 
 ###
 <div align="left">
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🎯 Goal : Be the IT Infrastructure <br>📚 I am currently learning the Laravel, React, and Python programming language</p>
+<p align="left">🎯 Goal : Be the IT Infrastructure <br>📚 I am currently studying Networking and Operating Systems.</p>
 
 ###
 
